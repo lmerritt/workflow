@@ -1,0 +1,35 @@
+{
+  "name": "startgulp",
+  "version": "0.0.1",
+  "description": "a gulpfile",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "merritt",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "autoprefixer": "^9.6.1",
+    "babel-core": "^6.26.3",
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-size": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "postcss-assets": "^5.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "usedcss": "^1.0.7"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
