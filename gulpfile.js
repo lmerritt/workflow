@@ -98,7 +98,8 @@ const scssConfig = {
 
     postCSS: [
         usedcss({
-            html: [htmlConfig.src]
+            html: [htmlConfig.src],
+            ignore: ['.error']
         }),
         postcssPresetEnv(/* pluginOptions */),
         assets({
