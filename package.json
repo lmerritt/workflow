@@ -26,8 +26,7 @@
     "gulp-size": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "postcss-assets": "^5.0.0",
-    "postcss-preset-env": "^6.7.0",
-    "usedcss": "^1.0.7"
+    "postcss-preset-env": "^6.7.0"
   },
   "browserslist": [
     "last 2 versions"
