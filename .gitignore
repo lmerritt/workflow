@@ -1,1 +1,10 @@
+.DS_Store
 node_modules
+.tmp
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/
+dev/images/**/*
+app/
